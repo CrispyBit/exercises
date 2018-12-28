@@ -4,7 +4,7 @@ import com.company.algorithms.*;
 
 import java.util.ArrayList;
 
-public class MainOld {
+public class Main {
 
     public static void main(String[] args) {
 
